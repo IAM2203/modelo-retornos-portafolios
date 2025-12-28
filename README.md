@@ -1,4 +1,4 @@
-# Portfolio Returns Modeling: Buy & Hold vs. Rebalancing
+# Modelado de Retornos de Portafolios
 
 ## Descripción del Proyecto
 Este proyecto analiza y compara el rendimiento histórico de portafolios de inversión bajo diferentes estrategias de gestión. 
